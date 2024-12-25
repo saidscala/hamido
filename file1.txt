@@ -1,1 +1,2 @@
 1 line : main branch
+2 line : branchToMerge
