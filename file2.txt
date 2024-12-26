@@ -1,2 +1,3 @@
 2 line
 line branchToMerge
+line 2 branchToMerge
