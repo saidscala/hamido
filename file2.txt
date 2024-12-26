@@ -1,2 +1,4 @@
 2 line
 line master
+line branchToMerge
+line 2 branchToMerge
